@@ -1,0 +1,22 @@
+.App {
+  text-align: center; /* Centra el texto dentro del contenedor */
+}
+body {
+  margin: 0;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 60px;
+}
+button {
+  margin: 5px;
+  background-color: antiquewhite;
+}
+button .play{
+  margin: 5px;
+  background-color: blue;
+  color: white;
+}
+img {
+  padding-left: 70px
+}
